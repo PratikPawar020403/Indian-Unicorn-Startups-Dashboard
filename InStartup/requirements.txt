@@ -1,0 +1,11 @@
+
+---
+
+**requirements.txt**
+
+```txt
+streamlit
+pandas
+plotly
+wordcloud
+matplotlib
